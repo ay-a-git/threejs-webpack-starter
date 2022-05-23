@@ -5,6 +5,9 @@ Courtesy of Bruno Simon of https://threejs-journey.xyz/
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
+#Day 2 of 100 days of code. 
+An attempt to make the sphere commonly seen in my art
+
 ``` bash
 # Install dependencies (only the first time)
 npm install
